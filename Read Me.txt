@@ -1,0 +1,25 @@
+Note:
+	You cant fully compile Script made in Pygames
+	Just dont mess with anything or you cant doesnt matter, It will just stop working
+	If you wanna silence music volume it goes to -1 like you know	
+	Use the Start bat file to run it
+
+Controls: 
+	Player1:
+		Arrow Keys to move and space bar to shoot
+
+	Player2: 
+		WASD Keys to move and shoot auto
+	
+	Options:
+		P to Pause inside the game
+		M to open Music menu
+		Esc to quit
+
+Addions:
+	Inside the music folder you can add any music you want to play inside the game
+	Just dont delete the original or anything it will stop working
+
+Recommended settings:
+			Music volume on 1 bar
+			Game volume also on 1 bar or 0
